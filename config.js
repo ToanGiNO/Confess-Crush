@@ -17,3 +17,4 @@ const CONFIG = {
     messDesc: 'Tối nay 7h, anh qua đón bé đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.messenger.com/t/100004558868907/
+}
