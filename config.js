@@ -1,20 +1,19 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Gửi đến bé iu của anh <3",
+    introTitle: 'Nguyễn Hoàng Thiên Kim',
+    introDesc: `Điều anh muốn là luôn thấy em cười
+    Chẳng cần phải lo lắng vì anh ở đây rồi
+    Để anh che chở em hết quãng đường ngày sau nhé
+    anh yêu em`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    title: 'Đó có phải là yêu hay không tại sao lòng anh lại tin hoài 🥰',
+    desc: 'Đó có phải mộng mơ khi hai mình mong về lâu đài ',
+    btnYes: 'Bé thích lắm <3',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    question: 'Bé để anh cầm tay đi hết cuộc đời này nhé <3',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'Bé đồng ý <33333333',
+    mess: 'Anh biết mà 🥰. Anh Yêu Bé nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 7h, anh qua đón bé đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    messLink: 'https://www.messenger.com/t/100004558868907/}
